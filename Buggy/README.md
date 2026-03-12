@@ -20,7 +20,7 @@ I `syntax`
 5. `/?page=customer`
 - dòng 3 thiếu dấu ;
   
-II `logic`
+II `logic` 
 6. `/?page=dashboard`
 - Doanh thu tính sai (dòng 12)
 - Điều kiện stock sai (dòng 19)
