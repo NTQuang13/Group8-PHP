@@ -8,7 +8,7 @@ Sinh viên cần:
 
 
 ## Tìm tối thiểu 8 lỗi trong source code.
-   - `syntax` 
+I `syntax` 
 1. `/index`
 - dòng 9 thiếu dấu ,
 2. `/?page=setting`
@@ -19,7 +19,7 @@ Sinh viên cần:
 - dòng 7 thiếu dấu ;
 5. `/?page=customer`
 - dòng 3 thiếu dấu ;
-   - `logic`
+II `logic`
 6. `/?page=dashboard`
 - Doanh thu tính sai (dòng 12)
 - Điều kiện stock sai (dòng 19)
