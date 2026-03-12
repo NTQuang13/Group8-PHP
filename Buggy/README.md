@@ -20,12 +20,12 @@ Sinh viên cần:
 5. `/?page=customer`
 - dòng 3 thiếu dấu ;
    - `logic`
-1. `/?page=dashboard`
+6. `/?page=dashboard`
 - Doanh thu tính sai (dòng 12)
 - Điều kiện stock sai (dòng 19)
-2. `/?page=report`\
+7. `/?page=report`\
 - chưa khai báo $reportRows = [];
-3. `/?page=checkout`
+8. `/?page=checkout`
 - $discountPercent = 0.1;
 
 ## Cách chạy
