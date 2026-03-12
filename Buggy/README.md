@@ -19,6 +19,7 @@ I `syntax`
 - dòng 7 thiếu dấu ;
 5. `/?page=customer`
 - dòng 3 thiếu dấu ;
+  
 II `logic`
 6. `/?page=dashboard`
 - Doanh thu tính sai (dòng 12)
